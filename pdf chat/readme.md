@@ -8,3 +8,5 @@
 * in the terminal run "streamlit run app.py"
 * upload your document
 * CHAT!!
+## Example
+  ![Exmaple](https://github.com/user-attachments/assets/dc6c1421-34c5-4856-9113-39b78157a18b)
